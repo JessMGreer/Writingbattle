@@ -1,4 +1,4 @@
-# Writingbattle
+# Writing Battle
 
 This project allows players to battle against one another in a writing prompt battle. The user will have a limited amount of time to write a response to a writing prompt.
 #If the user runs out of time, the response will be automatically submitted, finished or not. 
